@@ -1,18 +1,18 @@
 @font-face {
   font-family: 'Aclonica';
-  src: url('assets/fonts/font/Aclonica-Regular.ttf')  format('truetype');
+  src: url('/assets/fonts/font/Aclonica-Regular.ttf')  format('truetype');
 }
 @font-face {
   font-family: 'Aladin';
-  src: url('assets/fonts/font/Aladin-Regular.ttf')  format('truetype');
+  src: url('/assets/fonts/font/Aladin-Regular.ttf')  format('truetype');
 }
 @font-face {
   font-family: 'Aclonica';
-  src: url('assets/fonts/font/Aclonica-Regular.ttf')  format('truetype');
+  src: url('/assets/fonts/font/Aclonica-Regular.ttf')  format('truetype');
 }
 @font-face {
   font-family: 'Aclonica';
-  src: url('assets/fonts/font/Aclonica-Regular.ttf')  format('truetype');
+  src: url('/assets/fonts/font/Aclonica-Regular.ttf')  format('truetype');
 }
 
 html{

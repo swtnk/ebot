@@ -35,8 +35,11 @@ $(function(){
         $('#response').scrollTop('30px');    
     });
     var textarea = document.getElementById('response');
-    setInterval(function(){
+    /* setInterval(function(){
         textarea.scrollTop = textarea.scrollHeight - 20;
-    }, 0.01);
+    }, 1000); */
+    function scrollToTop(){
+        textarea.scrollTop = textarea.scrollHeight - 20;
+    }
     $('div[style="text-align: right;position: fixed;z-index:9999999;bottom: 0; width: 100%;cursor: pointer;line-height: 0;"]').addClass('hidden');
 });

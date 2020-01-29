@@ -2,7 +2,7 @@
 <nav role="navigation" class="navbar navbar-inverse navbar-fixed-top">
     <div class="container-fluid">
         <div class="navbar-header">
-            <a class="navbar-brand brandName" href="/ebot/" style="border-right: 1px solid #909aa6;"><strong>E-BOT</strong></a>
+            <a class="navbar-brand brandName" href="/" style="border-right: 1px solid #909aa6;"><strong>E-BOT</strong></a>
             <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#headerMenu">
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
@@ -16,7 +16,7 @@
                         echo '<li class="active"><a href="index.php"><span class="fa fa-home"></span> Home</a></li>';
                     }*/
                 ?>
-                 <li class="active"><a href="/ebot/"><span class="fa fa-home"></span> Home</a></li>
+                 <li class="active"><a href="/"><span class="fa fa-home"></span> Home</a></li>
                 <!--<li><a href="about-us.php"><span class="fa fa-book" aria-hidden="true"></span> About Us</a></li>-->
                 <li><a href="#"><span class="fa fa-plane" aria-hidden="true"></span> About</a></li>
                 <li><a href="#contactForm"><span class="fa fa-envelope" aria-hidden="true"></span> Contact Us</a></li>
